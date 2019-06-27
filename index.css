@@ -1,0 +1,18 @@
+body{
+	background: url(https://wallpapercave.com/wp/wp3067541.png);
+	background-repeat: no repeat;
+	background-size: cover;
+	padding-top: 70px;
+}
+.jumbotron{
+	color:#262930;
+}
+.navbar-inverse{
+	color:#2c3e50;
+}
+p{
+	font-size: 30px; 
+}
+.big{
+	font-size: 30px;
+}

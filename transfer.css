@@ -1,0 +1,14 @@
+body{
+	background: url(http://www.icanbecreative.com/res/freeweb/2011/04/paper_boat.png);
+	background-repeat: no repeat;
+	background-size: cover;
+}
+p{
+	font-size: 30px;
+}
+label{
+	font-size: 30px;
+}
+h1{
+	text-align: center;
+}
